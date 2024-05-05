@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @loloolk
-- 👀 I’m interested in chess
-- 🌱 I already know C++, Python, HTML and CSS, and am currently learning Rust
+- I am proficient in C, C++, Python, Rust, Javascript and C#
+- I am also knowledgeable in several other critical software, such as Docker, Git/Github, MongoDB, Scylla and more
