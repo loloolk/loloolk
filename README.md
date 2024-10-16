@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @loloolk
-- I am proficient in C, C++, Python, Rust, Javascript and C#
-- I am also knowledgeable in several other critical software, such as Docker, Git/Github, MongoDB, Scylla and more
+- 👋 Hi, I’m Marc Oger
+- I am proficient in C, C++, Python, Rust, Javascript, Java, C#, MATLAB and NASM Assembly
+- I am also knowledgeable in other crucial software, such as Docker, Git/Github, MongoDB, Scylla and more
 
 
 <div align="left">
